@@ -1,3 +1,5 @@
+package com.company;
+
 public class ListOfCarFirst {
     static public void FirstFunction1(Car[] cars, final String mark) {
         System.out.print("All cars of this brand :\n");

@@ -1,3 +1,5 @@
+package com.company;
+
 public class ListOfCarThird {
     static public void function_third(Car [] cars, int year, int price){
         System.out.print("All cars that are more expensive :\n");

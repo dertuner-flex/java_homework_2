@@ -1,3 +1,5 @@
+package com.company;
+
 public class ListOfCarSecond {
     static public void SecondFunction(Car[] cars, final String model, int year) {
         System.out.print("All cars of this model :\n");
